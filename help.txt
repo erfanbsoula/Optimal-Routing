@@ -1,0 +1,10 @@
+- type 'exit' to exit the program
+- for finding directions, type:
+direction origin_index destination_index
+
+locations: (index - name)
+0 - UT Enghelab Campus      1 - Valiasr Hospital
+2 - Enghelab Squar          3 - Laleh Park
+4 - UT Fanni Campus         5 - Valiasr Station
+6 - Saei Park               7 - Mirdamad Station
+8 - Mellat Park             9 - Shandiz Restaurant

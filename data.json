@@ -1,0 +1,82 @@
+[
+    {
+        "place_index": 0,
+        "place_name": "UT Enghelab Campus",
+        "Latitude": 35.706547,
+        "Longitude": 51.393850,
+        "neighbors_indices": [2, 3, 5],
+        "neighbors_weights": [2, 4, 6]
+    },
+    {
+        "place_index": 1,
+        "place_name": "Valiasr Hospital",
+        "Latitude": 35.710108,
+        "Longitude": 51.381278,
+        "neighbors_indices": [2, 3],
+        "neighbors_weights": [7, 4]
+    },
+    {
+        "place_index": 2,
+        "place_name": "Enghelab Squar",
+        "Latitude": 35.700969,
+        "Longitude": 51.390988,
+        "neighbors_indices": [0, 1, 3],
+        "neighbors_weights": [4, 6, 4]
+    },
+    {
+        "place_index": 3,
+        "place_name": "Laleh Park",
+        "Latitude": 35.710046,
+        "Longitude": 51.392079,
+        "neighbors_indices": [0, 1, 2, 4, 5],
+        "neighbors_weights": [5, 5, 5, 7, 4]
+    },
+    {
+        "place_index": 4,
+        "place_name": "UT Fanni Campus",
+        "Latitude": 35.724228,
+        "Longitude": 51.388203,
+        "neighbors_indices": [3, 6, 8],
+        "neighbors_weights": [9, 14, 12]
+    },
+    {
+        "place_index": 5,
+        "place_name": "Valiasr Station",
+        "Latitude": 35.711584,
+        "Longitude": 51.406960,
+        "neighbors_indices": [0, 3, 6],
+        "neighbors_weights": [8, 5, 9]
+    },
+    {
+        "place_index": 6,
+        "place_name": "Saei Park",
+        "Latitude": 35.736118,
+        "Longitude": 51.410531,
+        "neighbors_indices": [4, 5, 7, 9],
+        "neighbors_weights": [12, 12, 9, 10]
+    },
+    {
+        "place_index": 7,
+        "place_name": "Mirdamad Station",
+        "Latitude": 35.759816,
+        "Longitude": 51.433888,
+        "neighbors_indices": [6, 9],
+        "neighbors_weights": [11, 6]
+    },
+    {
+        "place_index": 8,
+        "place_name": "Mellat Park",
+        "Latitude": 35.779259,
+        "Longitude": 51.409500,
+        "neighbors_indices": [4, 9],
+        "neighbors_weights": [12, 14]
+    },
+    {
+        "place_index": 9,
+        "place_name": "Shandiz Restaurant",
+        "Latitude": 35.771218,
+        "Longitude": 51.422180,
+        "neighbors_indices": [6, 7, 8],
+        "neighbors_weights": [13, 10, 8]
+    }
+]
